@@ -44,13 +44,6 @@ I can work on both frontend and backend, but I prefer backend development.
 
 ---
 
-## 📊 GitHub Stats
-![Gerard's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 Feel free to check my projects and connect with me!
 
