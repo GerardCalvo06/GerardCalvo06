@@ -8,9 +8,8 @@ I can work on both frontend and backend, but I prefer backend development.
 ---
 
 ## 🚀 About Me
-- 💻 I work with both Frontend and Backend
-- 🧠 I enjoy backend logic and server-side development
-- 🌱 Always learning and improving step by step
+- 💻 I can work on both Frontend and Backend, but I prefer Backend
+- 🌱 Always learning new technologies and improving step by step
 - 🎯 Focused on becoming a better Full Stack developer
 
 ---
@@ -36,11 +35,17 @@ I can work on both frontend and backend, but I prefer backend development.
 ---
 
 ## 📈 Goals
-- Learn more about backend development
+- Learn more about Backend development
 - Build simple and useful APIs
 - Improve database skills
-- Create faster and more efficient apps
+- Make faster and more efficient applications
 - Work on real-world projects
+
+---
+
+## 📊 GitHub Stats
+![Gerard's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardCalvo06&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardCalvo06&layout=compact&theme=tokyonight)
 
 ---
 
