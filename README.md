@@ -1,40 +1,58 @@
 # 👋 Hi, I'm Gerard!
 
-I'm 20 years old and currently studying **Web Development**.  
-I like building modern, functional, and easy-to-use web applications.
+🎓 Web Development Student | 💻 Backend Lover  
+
+I’m 20 years old and I enjoy building modern, functional, and easy-to-use web applications.  
+I can work on both frontend and backend, but I prefer backend development.
+
+---
 
 ## 🚀 About Me
-- 🎓 Web Development Student
-- 💻 I can work on both Frontend and Backend, but I prefer Backend
-- 🌱 Always learning new technologies and improving little by little
+- 💻 I work with both Frontend and Backend
+- 🧠 I enjoy backend logic and server-side development
+- 🌱 Always learning and improving step by step
+- 🎯 Focused on becoming a better Full Stack developer
 
-## 🛠️ Technologies & Tools
+---
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Vue
+## 🛠️ Tech Stack
 
-### Backend
-- Node.js
-- PHP
-- Kotlin
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ## 📈 Goals
-- Learn more about Backend
-- Build simple and useful APIs REST
-- Improve my database skills
-- Work on real projects
-- Keep learning by building projects
+- Learn more about backend development
+- Build simple and useful APIs
+- Improve database skills
+- Create faster and more efficient apps
+- Work on real-world projects
+
+---
+
+## 📊 GitHub Stats
+![Gerard's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
 
 ## 📫 Contact
-Feel free to check my projects!
+Feel free to check my projects and connect with me!
 
 ---
 
